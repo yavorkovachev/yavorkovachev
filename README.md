@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yavorkovachev
 - 👀 I’m interested in machine learning and it's applications.
-- 🌱 I’m currently learning deep reinforcement learning (DRL) and applications of DRL in stochastic optimal control.
-- 💞️ I’m looking to collaborate on all topics at the intersection of machine learning, deep learning, optimal control, optimization and finance. 
+- 🌱 I’m currently learning and researching deep reinforcement learning (DRL) and it's applications in stochastic optimal control.
+- 💞️ I’m looking to collaborate on topics at the intersection of deep learning, continuous time finance and asset pricing. 
 - 📫 How to reach me: yavorkovachev@gmail.com
 
 <!---
